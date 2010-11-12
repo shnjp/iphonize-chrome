@@ -1,0 +1,15 @@
+{
+	"name": "iPhonize",
+	"version": "0.1",
+	"description": "The first extension that I made.",
+	"browser_action": {
+		"default_icon": "icon.png"
+	},
+	"permissions": [
+		"tabs", "http://*/*"
+	],
+	"browser_action": {
+		"default_icon": "icon.png"
+	},
+	"background_page": "background.html"
+}
